@@ -12,3 +12,9 @@ header ul li button
 {
 	width: 89px;
 }
+#secAltaAlumno
+{
+	display: none;
+	margin: 0 auto;
+	width: 350px;
+}
